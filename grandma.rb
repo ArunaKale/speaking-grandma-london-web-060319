@@ -7,7 +7,8 @@ elseif
   return "NO, NOT SINCE 1938!"
 end 
 else 
-  if phrase == ""
+  if phrase == "I LOVE YOU GRANDMA!"
+    return ""
 
 end 
 # Whatever you say to grandma, she should respond with
