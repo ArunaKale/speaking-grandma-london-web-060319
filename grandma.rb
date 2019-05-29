@@ -8,7 +8,7 @@ elseif
 end 
 else 
   if phrase == "I LOVE YOU GRANDMA!"
-    return ""
+    return "I LOVE YOU TOO PUMPKIN!"
 
 end 
 # Whatever you say to grandma, she should respond with
